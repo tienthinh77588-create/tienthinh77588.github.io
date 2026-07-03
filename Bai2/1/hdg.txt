@@ -1,0 +1,40 @@
+﻿1.  Thiết lập website cho bài tập
+Site name: đặt tên website
+Local root folder: chọn thư mục chứa tập tin HTML và Images
+Default images folder: chọn thư mục Images
+
+2. Tạo mới tập tin HTML và lưu với tên INDEX.HTML
+
+3. Thiết lập thuộc tính trang
+ Chọn thẻ Title/Encoding:
+ Title: Online communication
+ Encoding: Unicode (UTF-8)
+
+4.     Tạo tập tin CSS
+ Định lại thẻ BODY với các thuộc tính: margin và background-image
+ Gắn tập tin CSS vào tập tin INDEX.HTML
+
+5.  Tạo bảng biểu: 720x620 px
+ CellPad: 0px; CellSpace: 0px
+ Align: Center
+
+6.   Tạo các lớp định dạng và trạng thái liên kết:
+ Lớp nền chuyển sắc với: hình nền: bg_chuyensac.jpg, màu nền: #FCD001, biên trái: 5px
+ Lớp đường_biên: màu #FC8E03, 2px, nét liền
+Lớp nội dung: font: arial, 11px, màu: #8E8B86, màu nền: trắng, khoảng cách biên:10px
+ Lớp tiêu đề 1: font: Verdana, 20px, nghiêng, màu: #9D2C00
+ Lớp tiêu đề 2: font: arial, 11px, màu đen, in đậm
+ Lớp tiêu đề 3: font: arial, 11px, màu: #9D2C00
+
+7.    Tạo các ô
+ Thiết kế Banner
+Thiết kế thực đơn và tạo swap images
+ Thiết kế phần nội dung và áp các CSS tương ứng
+
+8.  Thiết kế hình ảnh và văn bản cho lề phải
+ Áp các CSS định dạng tương ứng cho các tiêu đề
+
+9. Kiểm tra và hoàn chỉnh giao diện
+
+
+

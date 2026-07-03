@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2"><img src="../Images/logo.jpg" width="88" height="93" alt=""/><img src="../Images/my_pham.gif" width="271" height="93" alt=""/><img src="../Images/banner.gif" width="391" height="93" alt=""/></td>
+    </tr>
+    <tr bgcolor="#FF8B0F" class="bien">
+      <td colspan="2">TRANG CHỦ | <a href="../Gioithieu.html">GIỚI THIỆU</a> | <a href="../Sanpham.html">SẢN PHẨM</a> | HỎI ĐÁP | TƯ VẤN | GIỎ HÀNG | LIÊN HỆ</td>
+    </tr>
+    <tr>
+      <td width="194"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr>
+            <td height="188" align="center" valign="middle"><a href="../Images/trang_diem_over.gif"><img src="../Images/trang_diem.gif" width="126" height="25" alt=""/></a><br />
+              <a href="../Images/duong_da_over.gif"><img src="../Images/duong_da.gif" width="126" height="25" alt=""/></a><br />
+              <a href="../Images/nuoc_hoa_over.gif"><img src="../Images/nuoc_hoa.gif" width="126" height="25" alt=""/></a><br />
+              <a href="../Images/duong_toc_over.gif"><img src="../Images/duong_toc.gif" width="126" height="25" alt=""/></a><br />
+              <a href="../Images/duong_the_over.gif"><img src="../Images/duong_the.gif" width="126" height="25" alt=""/></a><br />
+              <a href="../Images/nam_gioi_over.gif"><img src="../Images/nam_gioi.gif" width="126" height="25" alt=""/></a><br /></td>
+          </tr>
+          <tr>
+            <td height="189" align="center" valign="middle"><img src="../Images/tuongtrung.jpg" width="156" height="167" alt=""/></td>
+          </tr>
+          <tr>
+            <td height="62" align="center" valign="middle"><input type="text" name="textfield" id="textfield"><br/><input type="submit" class="nut" value="Tìm kiếm"></td>
+          </tr>
+          <tr valign="middle">
+            <td height="114" align="center"><label for="textfield2" style="color: #FFFFFF; text-align: left;">Đăng nhập</label>
+              <input type="text" name="textfield2" id="textfield2"><br />
+				<label for="textfield2" style="color: #FFFFFF">Mật khẩu</label>
+              <input type="text" name="textfield3" id="textfield3"><br />
+				<input type="submit" class="nut" value="Đăng nhập">
+			  </td>
+          </tr>
+        </tbody>
+      </table></td>
+      <td width="554" align="left" valign="top"><!-- TemplateBeginEditable name="Noi dung" -->Noi dung<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td colspan="2"><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr bgcolor="#8A0632">
+            <td width="24%"><img src="../Images/vien_01.gif" width="185" height="28" alt=""/></td>
+            <td width="49%" style="color: #FFFFFF; text-align: center;">Trang web được xây dựng bởi Nguyễn Thanh Tâm</td>
+            <td width="27%" style="text-align: right"><img src="../Images/vien_02.gif" width="199" height="28" alt=""/></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
